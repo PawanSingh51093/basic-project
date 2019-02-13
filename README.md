@@ -1,0 +1,2 @@
+# basic-project
+for practice
